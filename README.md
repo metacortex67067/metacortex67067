@@ -37,17 +37,16 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=chainlink&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![pandas](https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=4A9EFF&labelColor=FFFFFF&color=4A9EFF)
-
+![Python](https://img.shields.io/badge/Python-4A9EFF?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-4A9EFF?style=flat&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-4A9EFF?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-4A9EFF?style=flat&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-4A9EFF?style=flat&logo=chainlink&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-4A9EFF?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4A9EFF?style=flat&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4A9EFF?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4A9EFF?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4A9EFF?style=flat&logo=linux&logoColor=white)
 </div>
 
 ---
