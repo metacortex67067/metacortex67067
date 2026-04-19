@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/@lmetacortexl-0D1117?style=for-the-badge&logo=telegram&logoColor=4A9EFF)](https://t.me/lmetacortexl)
-[![GitHub](https://img.shields.io/badge/metacortex67067-0D1117?style=for-the-badge&logo=github&logoColor=4A9EFF)](https://github.com/metacortex67067)
+[![Telegram](https://img.shields.io/badge/@lmetacortexl-4A9EFF?style=flat&logo=telegram&logoColor=white)](https://t.me/lmetacortexl)
+[![GitHub](https://img.shields.io/badge/metacortex67067-4A9EFF?style=flat&logo=github&logoColor=white)](https://github.com/metacortex67067)
 
 </div>
