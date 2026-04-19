@@ -83,11 +83,11 @@
 
 <div align="center">
 
-<a href="https://t.me/lmetacortexl">
-<img height="88" src="https://img.shields.io/badge/@lmetacortexl-4A9EFF?style=flat&logo=telegram&logoColor=white" />
-</a>
-<a href="https://github.com/metacortex67067">
-<img height="88" src="https://img.shields.io/badge/metacortex67067-4A9EFF?style=flat&logo=github&logoColor=white" />
-</a>
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/@lmetacortexl-4A9EFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lmetacortexl)
+[![GitHub](https://img.shields.io/badge/metacortex67067-4A9EFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metacortex67067)
+
+</div>
 
 </div>
