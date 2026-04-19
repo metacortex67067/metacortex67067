@@ -8,16 +8,14 @@
 
 ### About me
 
-```python
-metacortex = {
-    "name"    : "Timofey Usenko",
-    "uni"     : "NUST MISIS — B.Sc. Computer Science (2024–2028)",
-    "focus"   : ["Classical ML", "NLP", "Feature Engineering"],
-    "english" : "C1 Advanced",
-    "tg"      : "@lmetacortexl",
-}
-```
-
+| | |
+|---|---|
+| 👤 Name | Timofey |
+| 🎓 University | NUST MISIS — B.Sc. Computer Science (2024–2028) |
+| 🤖 Focus | Classical ML, NLP |
+| 🌍 English | C1 |
+| 📍 Location | Moscow, Russia |
+| 💬 Telegram | [@lmetacortexl](https://t.me/lmetacortexl) |
 ---
 
 ### 🏆 Hackathon achievements
