@@ -16,6 +16,7 @@
 | 🌍 English | C1 |
 | 📍 Location | Moscow, Russia |
 | 💬 Telegram | [@lmetacortexl](https://t.me/lmetacortexl) |
+
 ---
 
 ### 🏆 Hackathon achievements
@@ -55,14 +56,14 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=metacortex67067&show_icons=true&theme=transparent&title_color=4A9EFF&text_color=FFFFFF&icon_color=4A9EFF&border_color=1E3A5F&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metacortex67067&layout=compact&theme=transparent&title_color=4A9EFF&text_color=FFFFFF&border_color=1E3A5F&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=metacortex67067&show_icons=true&theme=tokyonight&title_color=4A9EFF&icon_color=4A9EFF&border_color=1E3A5F" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metacortex67067&layout=compact&theme=tokyonight&title_color=4A9EFF&border_color=1E3A5F" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=metacortex67067&theme=transparent&hide_border=false&border=1E3A5F&stroke=4A9EFF&ring=4A9EFF&fire=4A9EFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A9EFF&sideLabels=4A9EFF&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=metacortex67067&theme=tokyonight&border=1E3A5F&stroke=4A9EFF&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideLabels=4A9EFF)](https://git.io/streak-stats)
 
 </div>
 
