@@ -37,16 +37,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-4A9EFF?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-4A9EFF?style=flat&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-4A9EFF?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-4A9EFF?style=flat&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-4A9EFF?style=flat&logo=chainlink&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-4A9EFF?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4A9EFF?style=flat&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-4A9EFF?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4A9EFF?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-4A9EFF?style=flat&logo=linux&logoColor=white)
+<img height="28" src="https://img.shields.io/badge/Python-4A9EFF?style=flat&logo=python&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/PyTorch-4A9EFF?style=flat&logo=pytorch&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/scikit--learn-4A9EFF?style=flat&logo=scikit-learn&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/HuggingFace-4A9EFF?style=flat&logo=huggingface&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/LangChain-4A9EFF?style=flat&logo=chainlink&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/pandas-4A9EFF?style=flat&logo=pandas&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/NumPy-4A9EFF?style=flat&logo=numpy&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/Docker-4A9EFF?style=flat&logo=docker&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/Git-4A9EFF?style=flat&logo=git&logoColor=white" />
+<img height="28" src="https://img.shields.io/badge/Linux-4A9EFF?style=flat&logo=linux&logoColor=white" />
+
 </div>
 
 ---
