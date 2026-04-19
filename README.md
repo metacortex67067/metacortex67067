@@ -84,10 +84,10 @@
 <div align="center">
 
 <a href="https://t.me/lmetacortexl">
-<img height="58" src="https://img.shields.io/badge/@lmetacortexl-4A9EFF?style=flat&logo=telegram&logoColor=white" />
+<img height="88" src="https://img.shields.io/badge/@lmetacortexl-4A9EFF?style=flat&logo=telegram&logoColor=white" />
 </a>
 <a href="https://github.com/metacortex67067">
-<img height="58" src="https://img.shields.io/badge/metacortex67067-4A9EFF?style=flat&logo=github&logoColor=white" />
+<img height="88" src="https://img.shields.io/badge/metacortex67067-4A9EFF?style=flat&logo=github&logoColor=white" />
 </a>
 
 </div>
