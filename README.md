@@ -23,14 +23,14 @@
 
 | Place | Competition | Year |
 |:---:|---|:---:|
+| 🥉 3rd | SberIndex Contest | 2026 |
 | 🥇 1st | IT\_ONE Cup — ML Challenge Track | 2025 |
-| 🏅 4th | FINAM × HSE AI Trade Hack | 2025 |
-| 🥈 2nd | AI Challenge — Creative Industries | 2023 |
+|    4th | FINAM × HSE AI Trade Hack | 2025 |
 | Finalist | AI Challenge — AI Judge for E-Pharmacist | 2025 |
 | Finalist | Tender-Hack SPB | 2024 |
 | 5th | XLabs AI Hack | 2024 |
+| 🥈 2nd | AI Challenge — Creative Industries | 2023 |
 | Finalist | NTO — Technological Entrepreneurship | 2023 |
-
 ---
 
 ### 🛠 Skills
